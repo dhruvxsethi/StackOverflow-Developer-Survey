@@ -22,5 +22,16 @@ The project was developed using python 3 with the following packages.
 ## Summary
 The analysis is a basic EDA to understand what the dataset portrays.
 
+1. This survey represents the overall programming community
+2. Has a fewer responses from non English speaking countries/ women & non binary genders
+3. We should make an effort to encourage these underrepresented communities
+4. Although most respondants have a degree, it isnt necessary to build a career in programming
+5. We can start programming by working on it as a freelancer or part time, as seen by a significant portion of the community
+6. HTML/CSS/JS are most used followed by Python/SQL
+7. Python is most interseting language to learn - it is easy to learn and can be applied in various domains
+8. Rust & TypeScript are most loved, followed by Python(which is already a widely used language)
+9. Programmers work for around 40 hours, slight variations by country
+10. Can start learning Programming at any age, can also enjoy it as a hobby
+
 ## Acknowledgments
 [Stack Overflow](https://stackoverflow.com), for collecting and providing the data.
