@@ -18,7 +18,6 @@ The project was developed using python 3 with the following packages.
 ## Files
 - data/ : Folder with dataset, schema , readme file of stack overflow, stack overflow survey details
 - Data Analysis - StackOverflow Survey.ipynb : Jupyter Notebook with all the exploratory analysis and findings
-- requirements.txt : pre-requisite libraries
 
 ## Summary
 The analysis is a basic EDA to understand what the dataset portrays.
